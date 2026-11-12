@@ -7,12 +7,12 @@ const config = {
 
   future: {},
 
-  url: 'https://example-research-series.org',
-  baseUrl: '/',
+  url: 'https://kennyofthesmith.github.io',
+  baseUrl: '/LiveWhitePaper/',
 
-  organizationName: 'example-org',
-  projectName: 'working-papers',
-
+  organizationName: 'kennyofthesmith',
+  projectName: 'LiveWhitePaper',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
 
   i18n: {
